@@ -9,6 +9,10 @@
 
 
 
+## 上行带宽挂机
+- 甜糖：http://m.tiantang.mogencloud.com/downloadcenter  听说收益还行，50M一天2块？没试过。。
+- 星际比特：https://www.ipfsbit.com/#/download  球点儿钱，硬件要求还高，，没试过。。
+
 
 
 
