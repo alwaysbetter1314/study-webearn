@@ -1,6 +1,10 @@
 # study-webearn
 各类网赚门户网站汇总。 钱什么的无所谓，主要喜欢折腾的感觉。
 过程中可以学到： linux, docker, shell script, wine等知识
+
+## 广告检测类任务
+- 博睿挂机：http://www.huizhuanle.com/?jobtaskshow-74.html 每天一块我记得是， 不怎么吃cpu
+
 ## 门户网站之挂机打码
 - 闪来亿：http://www.32xq.com/?reg-20187.html   手动打码和带宽挂机 1元可提
 - 不停赚：http://www.butingzhuan.com/reg.php?upid=94583  自动挂机，静淘可能含病毒，建议win系列闲置vps,虚拟机,centos6.9+wine32来进行
